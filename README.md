@@ -23,8 +23,8 @@ Happy coding! 🚀
 
 ## Estatísticas do Repositório
 
-![Commits](https://img.shields.io/github/commit-activity/m/seu-usuario/seu-repositorio?style=flat-square)
-![Última Atualização](https://img.shields.io/github/last-commit/seu-usuario/seu-repositorio?style=flat-square)
-![Tamanho do Repositório](https://img.shields.io/github/repo-size/seu-usuario/seu-repositorio?style=flat-square)
-![Número de Estrelas](https://img.shields.io/github/stars/seu-usuario/seu-repositorio?style=flat-square)
-![Número de Forks](https://img.shields.io/github/forks/seu-usuario/seu-repositorio?style=flat-square)
+![Commits](https://img.shields.io/github/commit-activity/m/SilvioCruzDeveloper/L-gica_de_programa-o_e_Algoritimos_com_JavaScript?style=flat-square)
+![Última Atualização](https://img.shields.io/github/last-commit/SilvioCruzDeveloper/L-gica_de_programa-o_e_Algoritimos_com_JavaScript?style=flat-square)
+![Tamanho do Repositório](https://img.shields.io/github/repo-size/SilvioCruzDeveloper/L-gica_de_programa-o_e_Algoritimos_com_JavaScript?style=flat-square)
+![Número de Estrelas](https://img.shields.io/github/stars/SilvioCruzDeveloper/L-gica_de_programa-o_e_Algoritimos_com_JavaScript?style=flat-square)
+![Número de Forks](https://img.shields.io/github/forks/SilvioCruzDeveloper/L-gica_de_programa-o_e_Algoritimos_com_JavaScript?style=flat-square)
