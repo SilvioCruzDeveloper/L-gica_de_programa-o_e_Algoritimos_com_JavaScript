@@ -18,3 +18,13 @@ Estou muito feliz em estar mergulhando nesse mundo da programação! Cada novo c
 Vou continuar atualizando este repositório com meus exercícios, projetos e tudo mais que estou aprendendo. Se quiser trocar ideias ou sugestões, fique à vontade para entrar em contato!
 
 Happy coding! 🚀
+
+---
+
+## Estatísticas do Repositório
+
+![Commits](https://img.shields.io/github/commit-activity/m/seu-usuario/seu-repositorio?style=flat-square)
+![Última Atualização](https://img.shields.io/github/last-commit/seu-usuario/seu-repositorio?style=flat-square)
+![Tamanho do Repositório](https://img.shields.io/github/repo-size/seu-usuario/seu-repositorio?style=flat-square)
+![Número de Estrelas](https://img.shields.io/github/stars/seu-usuario/seu-repositorio?style=flat-square)
+![Número de Forks](https://img.shields.io/github/forks/seu-usuario/seu-repositorio?style=flat-square)
